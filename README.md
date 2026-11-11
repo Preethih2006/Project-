@@ -1,3 +1,3 @@
 # Project-
-this is my first git repository
-author - preethi
+This is my first git repository.
+Author - Preethi
